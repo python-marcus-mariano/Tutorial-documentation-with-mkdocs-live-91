@@ -1,5 +1,7 @@
 site_name: Live de Python
 
+site_author: Marcus Mariano
+
 theme: readthedocs
 
 # MkDocs Bootstrap
