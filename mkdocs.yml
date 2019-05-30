@@ -1,0 +1,21 @@
+site_name: Live de Python
+
+theme: readthedocs
+
+# MkDocs Bootstrap
+# theme: yeti
+# theme: amelia
+
+# MkDocs Material
+# theme: 
+#   name: material
+
+nav:
+  - Home: index.md
+  - Sobre: sobre.md
+  - Contribuições:
+    - Tradução: contribuir/traducao.md
+    - Eventos: contribuir/eventos.md
+
+extra_css:
+  - css/extra_css.css
