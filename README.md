@@ -73,7 +73,7 @@ mkdocs gh-deploy
 
 ## Documentation
 
-See [here](https://python-marcus-mariano.github.io/Tutorial-documentation-with-mkdocs-live-91/)
+See the documentation [here](https://python-marcus-mariano.github.io/Tutorial-documentation-with-mkdocs-live-91/)
 
 ## License
 
