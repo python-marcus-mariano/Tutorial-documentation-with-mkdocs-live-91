@@ -10,6 +10,8 @@ theme: readthedocs
 # theme: 
 #   name: material
 
+repo_url: https://github.com/python-marcus-mariano/Tutorial-documentation-with-mkdocs-live-91/tree/master
+
 nav:
   - Home: index.md
   - Sobre: sobre.md
