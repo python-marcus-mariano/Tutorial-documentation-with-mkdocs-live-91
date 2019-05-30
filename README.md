@@ -63,7 +63,7 @@ mkdocs build
 
 ```
 
-Make deploid on github
+Make deploy on github
 
 ```sh
 
